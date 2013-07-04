@@ -1,10 +1,9 @@
 laravel4-boilerplate
 ====================
 
-WORK IN PROGRESS
-====================
+Laravel 4 framework with some usefull addiction like : HTML5 Boilerplate, Twitter Bootstrap, jQuery and all the cool things should be in a common project.
 
-Laravel 4 framework with some usefull addiction like : HTML5 Boilerplate, Twitter Bootstrap, jQuery.
+Feel free to suggest some feature for a boilerplate project. 
 
 
 What's inside
@@ -20,3 +19,6 @@ Packages included
 --------------------
 - [Jeffrey Way Generators](https://github.com/JeffreyWay/Laravel-4-Generators)
 
+License
+--------------------
+Project based on the laravel framwork. Laravel4-boilerplate is released under the [MIT License](http://opensource.org/licenses/MIT).
