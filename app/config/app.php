@@ -113,8 +113,8 @@ return array(
 		'Illuminate\Validation\ValidationServiceProvider',
 		'Illuminate\View\ViewServiceProvider',
 		'Illuminate\Workbench\WorkbenchServiceProvider',
-		//Custom providers
-		'Way\Generators\GeneratorsServiceProvider',
+		//Custom providers -- uncomment after composer install
+		//'Way\Generators\GeneratorsServiceProvider',
 
 	),
 
